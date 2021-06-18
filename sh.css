@@ -1,0 +1,22 @@
+body
+{
+    background-image: url("https://drive.google.com/file/d/1fGz6T2OZeGqzLGfhN1fZ2VffCG-OzWxL/view?usp=sharing");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color:#93c572; 
+    border-style:solid;
+}
+h2
+{
+	border-radius: 23px;
+	width: 219px;
+	padding: 3px;
+ }
+ h3
+{
+	display: inline-block;
+}
